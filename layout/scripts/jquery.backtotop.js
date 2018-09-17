@@ -1,10 +1,7 @@
 /*
-Template Name: Geodarn
-Author: <a href="https://www.os-templates.com/">OS Templates</a>
-Author URI: https://www.os-templates.com/
-Licence: Free to use under our free template licence terms
-Licence URI: https://www.os-templates.com/template-terms
-File: Back to Top JS
+
+GitHub : https://github.com/lucaasaragao
+
 */
 
 jQuery("#backtotop").click(function () {

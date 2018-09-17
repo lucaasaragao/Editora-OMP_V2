@@ -6,15 +6,13 @@
  
  
  /*
-Template Name: Geodarn
-Author: <a href="https://www.os-templates.com/">OS Templates</a>
-Author URI: https://www.os-templates.com/
-Licence: Free to use under our free template licence terms
-Licence URI: https://www.os-templates.com/template-terms
+<!--
+Template Name: Lucas Aragão
+GitHub : https://github.com/lucaasaragao
+-->
 File: Flexslider Configuration Settings
 */
 
-// All configuration settings / properties can be found here: https://github.com/woothemes/FlexSlider/wiki/FlexSlider-Properties
 
 // Homepage Slider
 $('.basicslider').flexslider({

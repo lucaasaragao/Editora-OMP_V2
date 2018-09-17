@@ -1,10 +1,8 @@
 /*
-Template Name: Geodarn
-Author: <a href="https://www.os-templates.com/">OS Templates</a>
-Author URI: https://www.os-templates.com/
-Licence: Free to use under our free template licence terms
-Licence URI: https://www.os-templates.com/template-terms
-File: Mobile Menu JS
+<!--
+Template Name: Lucas Aragão
+GitHub : https://github.com/lucaasaragao
+-->
 
 Thanks to:
 "Convert a Menu to a Dropdown for Small Screens" from Chris Collier - http://css-tricks.com/convert-menu-to-dropdown/
