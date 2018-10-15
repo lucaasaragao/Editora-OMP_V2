@@ -1,11 +1,7 @@
 @charset "utf-8";
 /*
-Template Name: Geodarn
-Author: <a href="https://www.os-templates.com/">OS Templates</a>
-Author URI: https://www.os-templates.com/
-Licence: Free to use under our free template licence terms
-Licence URI: https://www.os-templates.com/template-terms
-File: Custom Flexslider CSS => For FlexSlider v2.6.1
+Template Name: Lucas Aragão
+Author: https://github.com/lucaasaragao
 */
 
 /* Browser Resets
@@ -63,3 +59,11 @@ File: Custom Flexslider CSS => For FlexSlider v2.6.1
 .flex-direction-nav a{color:rgba(255,255,255,1);}
 .flex-control-paging li a{background-color:rgba(255,255,255,1); border-color:rgba(255,255,255,0);}
 .flex-control-paging li a.flex-active{background-color:rgba(255,255,255,0); border-color:rgba(255,255,255,1);}
+
+/* Icon 
+--------------------------------------------------------------------------------------------------------------- */
+
+.txtwrap i img {
+	width: 70px;
+	height: 70px;
+}
