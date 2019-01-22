@@ -97,77 +97,58 @@ GitHub : https://github.com/lucaasaragao
       <!--<img class="imgr borderedbox inspace-5" src="../images/demo/imgr.gif" alt="">-->
       <p>Acessse a baixo</p>
 
-      <form class="pkp_form" id="signinForm" method="post" action="http://150.165.218.7/sistema/press/index.php/press/login/signIn" style="width: 400px;">
+      <form class="pkp_form" id="signinForm" method="post" action="http://150.165.218.7/sistema/press5/index.php/UFPB/login/signIn" style="width: 400px;">
 
 
 <input type="hidden" name="source" value="">
 
   
-<fieldset id="loginFields">
-        
-
-<div class="section">
-  <label>Login</label>              
-            
-<div class="pkp_helpers_half">
-    <input type="text" maxlength="32" class="field text" name="username" value="" id="username-5b54276601551">
-
-  <span></span>
-</div>
-    
-  </div>    
-
-<div class="section">
-  <label>Senha</label>              
-            
-<div class="pkp_helpers_half">
-    <input type="password" password="1" maxlength="32" class="field text" name="password" value="" id="password-5b54276606684">
-
-  <span></span>
-</div>
-      <a href="http://150.165.218.7/sistema/press/index.php/press/login/lostPassword">Esqueceu a senha?</a>
-    
-  </div>          
-
-<div class="section  ">
-      <ul class="checkbox_and_radiobutton">         
-              
-<li>
-  <input type="checkbox" id="remember" value="1" name="remember" class="field checkbox">
-  <label for="remember" class="choice">Lembrete com login e senha</label></li>
-      
-  </ul></div>                     
-            
-
-
-<div class="section formButtons ">
-                
-                  
-<script>
-  $(function() {
-    $('#cancelFormButton').pkpHandler(
-        '$.pkp.controllers.linkAction.LinkActionHandler',
-        {
-          actionRequest: '$.pkp.classes.linkAction.RedirectRequest',
-          actionRequestOptions: {
-            url: 'http://150.165.218.7/sistema/press/index.php/press/user/register'
-          },
-      });
-  });
-</script>           
-<div>
-  <a href="http://150.165.218.7/sistema/press/index.php/press/user/register" id="cancelFormButton" class="cancelFormButton">Não é um usuário? Registe-se no site</a>
-</div>
-  
-      
-<div>
-  <button class="submitFormButton button ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" type="submit" id="submitFormButton" translate="1" role="button" aria-disabled="false"><span class="ui-button-text">Acesso</span></button>
-</div>
-  <div class="pkp_helpers_progressIndicator"></div>
-  <div class="clear"></div>
-
+<fieldset class="fields">
+  <div class="username">
+    <label>
+      <span class="label">
+        Login: 
+        <span class="required"></span>
+        <span class="pkp_screen_reader">
+          
+        </span>
+      </span>
+      <input type="text" name="username" id="username-5b54276601551" value="" maxlength="32" required="">
+    </label>
   </div>
-      
+  <div class="password">
+    <label>
+      <span class="label">
+       Senha:
+        <span class="required"></span>
+        <span class="pkp_screen_reader">
+          
+        </span>
+      </span>
+      <input type="password" name="password" id="password-5b54276606684" value="" password="true" maxlength="32" required="">
+      <a href="http://150.165.218.7/sistema/press5/index.php/UFPB/login/lostPassword">
+        Esqueceu a senha?
+      </a>
+    </label>
+  </div>
+  <div class="remember checkbox">
+    <label>
+      <input type="checkbox" name="remember" id="remember" value="1" checked="$remember">
+      <span class="label">
+        Mantenha-me conectado
+      </span>
+    </label>
+  </div>
+  <div class="buttons">
+    <button class="submit" type="submit">
+      Acesso
+    </button>
+
+              
+      <a href="http://150.165.218.7/sistema/press5/index.php/UFPB/user/register?source=" class="register">
+        Não é um usuário? Registe-se no site
+      </a>
+          </div>
 </fieldset>
 <div class="pkp_helpers_clear"></div>
 <script>
@@ -184,9 +165,7 @@ GitHub : https://github.com/lucaasaragao
     <div class="clear"></div>
   </main>
 </div>
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
+
 <div class="wrapper row4 bgded overlay" style="background-image:url('../images/demo/fundo.png');">
   <footer id="footer" class="hoc clear"> 
     <!-- ################################################################################################ -->
