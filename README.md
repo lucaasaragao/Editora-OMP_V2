@@ -28,6 +28,5 @@ Site foi desenvolvido para a **Editora UFPB** com propósito de ser uma platafor
 
 Clique no link para aessar o projeto [Editora UFPB](http://www.editora.ufpb.br/sistema/press/index.html)
 
-
-
-  
+---
+Desenvolvido por Lucas Aragão 😁
