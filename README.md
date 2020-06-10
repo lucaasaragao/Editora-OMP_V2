@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-    <img src="public/home.png" width="100%">
+    <img src="https://github.com/lucaasaragao/Editora-OMP_V2/blob/master/public/home.PNG" width="100%">
 </h1>
 
 ## 📑 Sobre
