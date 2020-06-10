@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTAz-0eiYUJQaZhDS3qeNvZIiVoBqPl4kNi6km2uvTRVvIpkDsh&usqp=CAU" width="200px">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTAz-0eiYUJQaZhDS3qeNvZIiVoBqPl4kNi6km2uvTRVvIpkDsh&usqp=CAU" width="120px">
 </h1>
 
 <h1 align="center">
