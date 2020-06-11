@@ -20,9 +20,7 @@ Ao final do meu contrato com a instituição o projeto foi continuado e está se
 - [Maria DB](https://mariadb.org/)
 - [Apache](https://www.apache.org/)
 - [WampServer](https://www.wampserver.com/en/)
-- [HTML 5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5) 
-- [CSS 3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
+- [VLibras](https://www.vlibras.gov.br/)
 
 ---
 
