@@ -28,8 +28,8 @@ Ao final do meu contrato com a instituição o projeto foi continuado e está se
 
 ## 💻 Como acessar
 
-Clique no link para acessar o projeto [Editora UFPB](http://www.editora.ufpb.br/sistema/press/index.html)
-Clique no link para acessar o livro [Livro publicado](https://www.abeu.org.br/farol/abeu/Servicos/publicacoes/livros-publicados-pela-abeu/editoras-universitarias-estrategias-de-gestao/623)
+- Clique no link para acessar o projeto [Editora UFPB](http://www.editora.ufpb.br/sistema/press/index.html)
+- Clique no link para acessar o livro [Livro publicado](https://www.abeu.org.br/farol/abeu/Servicos/publicacoes/livros-publicados-pela-abeu/editoras-universitarias-estrategias-de-gestao/623)
 
 
 ---
